@@ -22,8 +22,10 @@ Additionally, the treatment group had slightly higher scores for nausea, pain an
 Chemotherapy agent "A" prolonged survival time for advanced GI cancer patients while not significantly affecting their quality of life.
 
 ## Presentations
-[Scientific presentation](./ppt/ISR2020_scientific_presentation_group6.pdf)
-[Presentation of the statistical aspect of the methods](./ppt/20201014_ISR2020_statistical_presentation_group6_QoL.pdf)
+[Scientific presentation](./ppt/ISR2020_scientific_presentation_group6.pdf)  
+  
+[Presentation of the statistical aspect of the methods](./ppt/20201014_ISR2020_statistical_presentation_group6_QoL.pdf)  
+
 ## Poster
 [Poster](./ppt/ISR_2020_poster_group6.pdf)
 
