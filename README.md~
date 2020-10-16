@@ -18,7 +18,7 @@ The code for the statistics and figures can be found [here](./stats/QoL.ipynb)
 The survival of the treatment group (median of 8 months) was significantly prolonged (p<0.01) compared with the control group (median of 4.5 months). 
 There was no significant difference in quality of life as measured in global health scores (p=0.139). 
 Additionally, the treatment group had slightly higher scores for nausea, pain and dyspnoea tha the control group but these differences were not significant (p=0.858, p=0.201, p=0.182, respectively).  
-**Conclusion**:
+**Conclusion**:  
 Chemotherapy agent "A" prolonged survival time for advanced GI cancer patients while not significantly affecting their quality of life.
 
 ## Presentations

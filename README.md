@@ -29,6 +29,8 @@ Chemotherapy agent "A" prolonged survival time for advanced GI cancer patients w
 ## Poster
 [Poster](./ppt/ISR_2020_poster_group6.pdf)
 
+template for the poster comes from [here](https://osf.io/6ua4k/)
+
 ## other
 
 spare figures can be found [here](./figures)
